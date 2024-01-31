@@ -1,6 +1,6 @@
 # My Augmented Reality Machine Demonstration
 
-Welcome to my Augmented Reality (AR) application, showcasing a captivating machine demonstration that blurs the lines between the virtual and physical realms. Immerse yourself in the future of technology by watching the video [here]([https://youtu.be/oVfzFWfpenk](https://youtu.be/tpHry6irR_4)).
+Welcome to my Augmented Reality (AR) application, showcasing a captivating machine demonstration that blurs the lines between the virtual and physical realms. Immerse yourself in the future of technology by watching the video [here](https://youtu.be/tpHry6irR_4)
 
 ## Key Features:
 
@@ -18,7 +18,7 @@ Welcome to my Augmented Reality (AR) application, showcasing a captivating machi
 
 ## My Video Overview:
 
-[![Augmented Reality Machine Demonstration](https://youtu.be/tpHry6irR_4)
+[![Augmented Reality Machine Demonstration][(https://youtu.be/tpHry6irR_4)](https://youtu.be/tpHry6irR_4)
 
 Click on the image above to watch the full video demonstration.
 
